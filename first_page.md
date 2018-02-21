@@ -2,5 +2,5 @@
 layout: default_1
 ---
 
-[Home](first_page.md)
+[Home](index.md).[Posts](first_page.md)
 

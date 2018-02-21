@@ -1,5 +1,29 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 google_analytics:
 theme: jekyll-theme-cayman
+title: Boahen Inc - Blog
+email: boahendeycarter@gmail.com
+description: > 
+  General Tech blogging site
+baseurl: "" # the subpath of your site, e.g. /blog
+permalink: /:categories/:year/:month/:day/:title/
+url: "https://quabenaboahen.github.io" 
+author: quabenaboahen
+twitter:
+  username: boahen_fred
+
+github_username:  quabenaboahen
+repository: quabenaboahen/quabenaboahen.github.io
+# plugins: Change from `plugins` to `plugins_dir` after upgrade to jekyll 3.5.2
+# plugins_dir:
+plugins:
+  - jemoji
+  - jekyll-mentions
+
+# Build settings
+markdown: kramdown

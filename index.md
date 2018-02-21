@@ -3,5 +3,5 @@ layout: default
 ---
 
 ```
-Visit my portfolio <a href="https://boaheninc.com/#/portfolio">Boahen Inc.</a>
+Blog for Boahen Inc. coming soon. Please keep your eyes fixed on this space
 ```

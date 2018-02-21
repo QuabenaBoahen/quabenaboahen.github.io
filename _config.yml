@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 google_analytics:
 theme: jekyll-theme-cayman
-title: Boahen Inc - Blog
+title: techHobbyst
 email: boahendeycarter@gmail.com
 description: > 
   General Tech blogging site
 baseurl: "" # the subpath of your site, e.g. /blog
-permalink: /:categories/:year/:month/:day/:title/
 url: "https://quabenaboahen.github.io" 
 author: quabenaboahen
 twitter:
@@ -19,11 +18,5 @@ twitter:
 
 github_username:  quabenaboahen
 repository: quabenaboahen/quabenaboahen.github.io
-# plugins: Change from `plugins` to `plugins_dir` after upgrade to jekyll 3.5.2
-# plugins_dir:
 plugins:
   - jemoji
-  - jekyll-mentions
-
-# Build settings
-markdown: kramdown

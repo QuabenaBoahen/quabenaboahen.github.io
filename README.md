@@ -1,6 +1,6 @@
 ## techHobbyst by [Boahen Fred](https://boaheninc.com)
 
-Blog source file for [quabenaboahen.github.io](htpps://quabenaboahen.github.io)
+Blog source for [quabenaboahen.github.io](htpps://quabenaboahen.github.io)
 
 ## Contributors
 

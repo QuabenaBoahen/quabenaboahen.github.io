@@ -1,8 +1,10 @@
 ---
 layout: default
+title: techHobbyst - Home
 ---
 
 ```
-Blog for Boahen Inc. coming soon. Please keep your eyes fixed on this space
+Please keep your eyes fixed on this space. Development still in progress ...
 ```
+
 

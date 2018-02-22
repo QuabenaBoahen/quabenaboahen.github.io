@@ -39,3 +39,8 @@ ul.posts li {
 }
 
 .project-name > a {color:#155799;text-decoration: none;}
+
+.p-texts {padding-top: 10pt !important;}
+
+.right-sm-sidebar {margin: 2px auto 4px !important; 
+    font-size: 1.1em !important;}

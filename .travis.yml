@@ -3,5 +3,15 @@ cache: bundler
 sudo: false
 rvm: 2.2
 
-install: script/bootstrap
+before_script:
+  - chmod a+x script/bootstrap
+  - chmod a+x script/cibuild
+  - chmod a+x script/rebund
+  - chmod a+x script/release
+install: 
+   -travis_retry script/bootstrap
 script: script/cibuild
+notifications:
+  email:
+    on_success: never
+    on_failure: change

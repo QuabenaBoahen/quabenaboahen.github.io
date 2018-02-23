@@ -1,5 +1,7 @@
 ## techHobbyst by [quabenaboahen](https://boaheninc.com)
 
+[![Build Status](https://travis-ci.org/QuabenaBoahen/quabenaboahen.github.io.svg?branch=master)](https://travis-ci.org/QuabenaBoahen/quabenaboahen.github.io)
+
 Blog source for [quabenaboahen.github.io](htpps://quabenaboahen.github.io)
 
 ## Contributors

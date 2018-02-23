@@ -6,10 +6,7 @@ rvm: 2.2
 before_script:
   - chmod a+x script/bootstrap
   - chmod a+x script/cibuild
-  - chmod a+x script/rebund
-  - chmod a+x script/release
-install: 
-   -travis_retry script/bootstrap
+
 script: script/cibuild
 notifications:
   email:

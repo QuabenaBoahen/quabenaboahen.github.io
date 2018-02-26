@@ -9,9 +9,18 @@ title: techHobbyst - Home
       <section class="col s12">
     <!-- Content -->
                 <article class="col s12 p-texts">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                <p>“It is not about the technology; it’s about sharing knowledge and information, communicating efficiently, building learning communities and creating a culture of professionalism in schools. These are the key responsibilities of all educational leaders”. – <b>Marion Ginapolis</b></p>
                 </article>
-    <!-- EO Content -->
+    <!-- EO Content --> 
+      </section>
+      <section class="col s12">
+        <article class="col s8 p-texts">
+      <p>Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth.</p> <p>Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. </p>
+    </article>
+    <article class="col s4 p-texts">
+      <p>Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth.</p>
+      <p>Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth.</p>
+    </article>
       </section>
       </div>
       </div>

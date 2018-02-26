@@ -19,11 +19,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+/*p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-}
+}*/
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
@@ -42,5 +42,5 @@ ul.posts li {
 
 .p-texts {padding-top: 10pt !important;}
 
-.right-sm-sidebar {margin: 2px auto 4px !important; 
-    font-size: 1.1em !important;}
+.right-sm-sidebar {margin: 1px auto 4px !important; 
+    font-size: 0.95em !important;}

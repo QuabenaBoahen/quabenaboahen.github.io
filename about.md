@@ -10,7 +10,8 @@ permalink: /about
       <section class="col s12">
     <!-- Content -->
                 <article class="col s12 p-texts">
-                Visit this link to read about me <a href="https://boaheninc.com/#/about">About Boahen</a>
+                <p>Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. </p>
+                <p>Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth. Think about this quote by Marion Ginapolis and wonder like I do too? Welcome to the 21st Century where technology is doing more harm than good for the ordinary youth.</p>
                 </article>
     <!-- EO Content -->
       </section>
